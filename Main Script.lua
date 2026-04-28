@@ -4,7 +4,7 @@ UI.Setup({
     Keys        = {"obby"},
     KeyURL      = "https://discord.gg/Q9xJ5s5RFg",
     KeyPersist  = false,
-    Name        = "whoa obby",
+    Name        = "Sophia Developer Hub",
     Version     = "v1",
     Icon        = "rbxassetid://134387754737125",
     SectionIcon = "rbxassetid://134387754737125",
